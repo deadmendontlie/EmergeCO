@@ -1,0 +1,12 @@
+Methods: POST, OPTIONS
+eURL: 18.212.156.43/get_status
+
+input JSON:
+{
+	"report_id" : 1
+}
+
+returned JSON:
+{
+    "status": "New",
+}
